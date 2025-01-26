@@ -1,0 +1,127 @@
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("./register-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: overlay;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffa500;
+  width: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 533px;
+  left: 374px;
+  border-radius: 8px;
+  gap: 0px;
+  opacity: 0px;
+
+  backdrop-filter: blur(100px);
+}
+
+.logo-container {
+  margin-top: 20px;
+}
+
+.title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.input {
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.button {
+  border-radius: 50px;
+  padding: 10px;
+  width: 250px;
+  height: 50px;
+  background: linear-gradient(
+    to right,
+    rgba(255, 199, 39, 1),
+    rgba(158, 64, 186, 1),
+    rgba(112, 0, 255, 1)
+  );
+  color: white;
+  border: none;
+
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.toggleButton {
+  margin-top: 10px;
+  color: #ffa500;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
+.button {
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+button:hover {
+  animation: rotateButton 1s linear infinite;
+}
+@keyframes rotateButton {
+  0% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.button:active {
+  transform: scale(1.5);
+}
+.button:focus {
+  outline: none;
+}
+.toggleButton {
+  transition: transform 0.3s;
+}
+.toggleButton:hover {
+  transform: scale(1.5);
+}
+.input:hover {
+  transform: scale(1.5);
+}
+input {
+  transition: transform 0.4s;
+}

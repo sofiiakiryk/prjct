@@ -1,0 +1,49 @@
+/* .container {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #1e1e2f;
+  color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+.balance {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.balance h2 {
+  margin: 0;
+}
+
+.currency-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background: #282c34;
+}
+
+.currency-table th,
+.currency-table td {
+  padding: 10px;
+  border: 1px solid #444;
+  text-align: center;
+}
+
+.currency-table th {
+  background: #333;
+}
+
+.chart {
+  margin-top: 20px;
+} */
+td {
+  color: black;
+}

@@ -1,0 +1,51 @@
+.statistics-container {
+  background-color: linear-gradient(
+    219.62deg,
+    rgba(109, 84, 235, 0.6) 28.31%,
+    rgba(101, 35, 146, 0.6) 66.76%
+  );
+  color: aliceblue;
+}
+.statistics-list {
+  width: 50%;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+.home-statistics {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Ensures both items align at the top */
+  min-height: 100vh; /* Optional: makes sure the layout takes the full height of the viewport */
+}
+
+.menu {
+  flex: 1; /* Adjust as needed to size the menu */
+  max-width: 300px; /* Optional: set a max width for the menu */
+  padding: 20px;
+  background-color: #f4f4f4; /* Example background color */
+}
+
+.content {
+  flex: 3; /* Takes up the remaining space */
+  padding: 20px;
+  background-color: #fff; /* Example background color */
+}
+
+/* Additional styles to ensure consistent spacing and layout */
+.selectWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.statisticsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

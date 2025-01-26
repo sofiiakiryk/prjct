@@ -1,0 +1,52 @@
+{
+  "headerTitle": "Money Guard",
+  "balance": "24000.00",
+  "currencyRates": [
+    { "currency": "USD", "purchase": "27.55", "sale": "27.65" },
+    { "currency": "EUR", "purchase": "30.00", "sale": "30.10" }
+  ],
+  "transactions": [
+    {
+      "date": "04.01.19",
+      "type": "Other",
+      "category": "Gift for your wife",
+      "comment": "-",
+      "sum": "300.00"
+    },
+    {
+      "date": "05.01.19",
+      "type": "Income",
+      "category": "January Bonus",
+      "comment": "-",
+      "sum": "8000.00"
+    },
+    {
+      "date": "07.01.19",
+      "type": "Car",
+      "category": "Oil",
+      "comment": "-",
+      "sum": "1000.00"
+    },
+    {
+      "date": "07.01.19",
+      "type": "Products",
+      "category": "Vegetables for the week",
+      "comment": "-",
+      "sum": "280.00"
+    },
+    {
+      "date": "07.01.19",
+      "type": "Income",
+      "category": "Gift",
+      "comment": "-",
+      "sum": "1060.00"
+    },
+    {
+      "date": "08.01.19",
+      "type": "Leisure",
+      "category": "Cinema tickets",
+      "comment": "-",
+      "sum": "500.00"
+    }
+  ]
+}

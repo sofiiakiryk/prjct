@@ -1,0 +1,732 @@
+{
+  "2020": {
+    "January": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8600
+    },
+    "February": {
+      "categories": [
+        { "name": "Food", "value": 2400 },
+        { "name": "Transport", "value": 1100 },
+        { "name": "Utilities", "value": 1700 },
+        { "name": "Health", "value": 850 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 22000,
+      "Expenses": 7450
+    },
+    "March": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 24000,
+      "Expenses": 8600
+    },
+    "April": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "May": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1400 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 25000,
+      "Expenses": 9100
+    },
+    "June": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "July": {
+      "categories": [
+        { "name": "Food", "value": 2900 },
+        { "name": "Transport", "value": 1500 },
+        { "name": "Utilities", "value": 2100 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1150 }
+      ],
+      "Income": 25500,
+      "Expenses": 10350
+    },
+    "August": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 900 }
+      ],
+      "Income": 23500,
+      "Expenses": 8050
+    },
+    "September": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "October": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 25000,
+      "Expenses": 10500
+    },
+    "November": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "December": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1350 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 24000,
+      "Expenses": 9500
+    }
+  },
+  "2021": {
+    "January": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1100 },
+        { "name": "Utilities", "value": 1600 },
+        { "name": "Health", "value": 850 },
+        { "name": "Education", "value": 1700 },
+        { "name": "Entertainment", "value": 900 }
+      ],
+      "Income": 24000,
+      "Expenses": 8850
+    },
+    "February": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1700 },
+        { "name": "Health", "value": 800 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8700
+    },
+    "March": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 24000,
+      "Expenses": 9500
+    },
+    "April": {
+      "categories": [
+        { "name": "Food", "value": 2900 },
+        { "name": "Transport", "value": 1400 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1700 },
+        { "name": "Entertainment", "value": 1150 }
+      ],
+      "Income": 25000,
+      "Expenses": 10500
+    },
+    "May": {
+      "categories": [
+        { "name": "Food", "value": 3000 },
+        { "name": "Transport", "value": 1500 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1800 },
+        { "name": "Entertainment", "value": 1200 }
+      ],
+      "Income": 26000,
+      "Expenses": 11500
+    },
+    "June": {
+      "categories": [
+        { "name": "Food", "value": 3100 },
+        { "name": "Transport", "value": 1600 },
+        { "name": "Utilities", "value": 2100 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1900 },
+        { "name": "Entertainment", "value": 1250 }
+      ],
+      "Income": 27000,
+      "Expenses": 12000
+    },
+    "July": {
+      "categories": [
+        { "name": "Food", "value": 3200 },
+        { "name": "Transport", "value": 1700 },
+        { "name": "Utilities", "value": 2200 },
+        { "name": "Health", "value": 1200 },
+        { "name": "Education", "value": 2000 },
+        { "name": "Entertainment", "value": 1300 }
+      ],
+      "Income": 28000,
+      "Expenses": 12500
+    },
+    "August": {
+      "categories": [
+        { "name": "Food", "value": 3300 },
+        { "name": "Transport", "value": 1800 },
+        { "name": "Utilities", "value": 2300 },
+        { "name": "Health", "value": 1300 },
+        { "name": "Education", "value": 2100 },
+        { "name": "Entertainment", "value": 1350 }
+      ],
+      "Income": 29000,
+      "Expenses": 13000
+    },
+    "September": {
+      "categories": [
+        { "name": "Food", "value": 3400 },
+        { "name": "Transport", "value": 1900 },
+        { "name": "Utilities", "value": 2400 },
+        { "name": "Health", "value": 1400 },
+        { "name": "Education", "value": 2200 },
+        { "name": "Entertainment", "value": 1400 }
+      ],
+      "Income": 30000,
+      "Expenses": 13500
+    },
+    "October": {
+      "categories": [
+        { "name": "Food", "value": 3500 },
+        { "name": "Transport", "value": 2000 },
+        { "name": "Utilities", "value": 2500 },
+        { "name": "Health", "value": 1500 },
+        { "name": "Education", "value": 2300 },
+        { "name": "Entertainment", "value": 1450 }
+      ],
+      "Income": 31000,
+      "Expenses": 14000
+    },
+    "November": {
+      "categories": [
+        { "name": "Food", "value": 3600 },
+        { "name": "Transport", "value": 2100 },
+        { "name": "Utilities", "value": 2600 },
+        { "name": "Health", "value": 1600 },
+        { "name": "Education", "value": 2400 },
+        { "name": "Entertainment", "value": 1500 }
+      ],
+      "Income": 32000,
+      "Expenses": 14500
+    },
+    "December": {
+      "categories": [
+        { "name": "Food", "value": 3700 },
+        { "name": "Transport", "value": 2200 },
+        { "name": "Utilities", "value": 2700 },
+        { "name": "Health", "value": 1700 },
+        { "name": "Education", "value": 2500 },
+        { "name": "Entertainment", "value": 1550 }
+      ],
+      "Income": 33000,
+      "Expenses": 15000
+    }
+  },
+  "2022": {
+    "January": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8600
+    },
+    "February": {
+      "categories": [
+        { "name": "Food", "value": 2400 },
+        { "name": "Transport", "value": 1100 },
+        { "name": "Utilities", "value": 1700 },
+        { "name": "Health", "value": 850 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 22000,
+      "Expenses": 7450
+    },
+    "March": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 24000,
+      "Expenses": 8600
+    },
+    "April": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "May": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1400 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 25000,
+      "Expenses": 9100
+    },
+    "June": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "July": {
+      "categories": [
+        { "name": "Food", "value": 2900 },
+        { "name": "Transport", "value": 1500 },
+        { "name": "Utilities", "value": 2100 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1150 }
+      ],
+      "Income": 25500,
+      "Expenses": 10350
+    },
+    "August": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 900 }
+      ],
+      "Income": 23500,
+      "Expenses": 8050
+    },
+    "September": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "October": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 25000,
+      "Expenses": 10500
+    },
+    "November": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "December": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1350 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 24000,
+      "Expenses": 9500
+    }
+  },
+  "2023": {
+    "January": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8600
+    },
+    "February": {
+      "categories": [
+        { "name": "Food", "value": 2400 },
+        { "name": "Transport", "value": 1100 },
+        { "name": "Utilities", "value": 1700 },
+        { "name": "Health", "value": 850 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 22000,
+      "Expenses": 7450
+    },
+    "March": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 24000,
+      "Expenses": 8600
+    },
+    "April": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "May": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1400 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 25000,
+      "Expenses": 9100
+    },
+    "June": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "July": {
+      "categories": [
+        { "name": "Food", "value": 2900 },
+        { "name": "Transport", "value": 1500 },
+        { "name": "Utilities", "value": 2100 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1150 }
+      ],
+      "Income": 25500,
+      "Expenses": 10350
+    },
+    "August": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 900 }
+      ],
+      "Income": 23500,
+      "Expenses": 8050
+    },
+    "September": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "October": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 25000,
+      "Expenses": 10500
+    },
+    "November": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "December": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1350 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 24000,
+      "Expenses": 9500
+    }
+  },
+  "2024": {
+    "January": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8600
+    },
+    "February": {
+      "categories": [
+        { "name": "Food", "value": 2400 },
+        { "name": "Transport", "value": 1100 },
+        { "name": "Utilities", "value": 1700 },
+        { "name": "Health", "value": 850 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 22000,
+      "Expenses": 7450
+    },
+    "March": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 24000,
+      "Expenses": 8600
+    },
+    "April": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "May": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1400 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1100 }
+      ],
+      "Income": 25000,
+      "Expenses": 9100
+    },
+    "June": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 900 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "July": {
+      "categories": [
+        { "name": "Food", "value": 2900 },
+        { "name": "Transport", "value": 1500 },
+        { "name": "Utilities", "value": 2100 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1600 },
+        { "name": "Entertainment", "value": 1150 }
+      ],
+      "Income": 25500,
+      "Expenses": 10350
+    },
+    "August": {
+      "categories": [
+        { "name": "Food", "value": 2600 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 900 }
+      ],
+      "Income": 23500,
+      "Expenses": 8050
+    },
+    "September": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1200 },
+        { "name": "Utilities", "value": 1800 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1500 },
+        { "name": "Entertainment", "value": 950 }
+      ],
+      "Income": 24000,
+      "Expenses": 8200
+    },
+    "October": {
+      "categories": [
+        { "name": "Food", "value": 2800 },
+        { "name": "Transport", "value": 1300 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1100 },
+        { "name": "Education", "value": 1550 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 25000,
+      "Expenses": 10500
+    },
+    "November": {
+      "categories": [
+        { "name": "Food", "value": 2500 },
+        { "name": "Transport", "value": 1250 },
+        { "name": "Utilities", "value": 1900 },
+        { "name": "Health", "value": 950 },
+        { "name": "Education", "value": 1400 },
+        { "name": "Entertainment", "value": 1000 }
+      ],
+      "Income": 23000,
+      "Expenses": 8100
+    },
+    "December": {
+      "categories": [
+        { "name": "Food", "value": 2700 },
+        { "name": "Transport", "value": 1350 },
+        { "name": "Utilities", "value": 2000 },
+        { "name": "Health", "value": 1000 },
+        { "name": "Education", "value": 1450 },
+        { "name": "Entertainment", "value": 1050 }
+      ],
+      "Income": 24000,
+      "Expenses": 9500
+    }
+  }
+}
